@@ -1,0 +1,4 @@
+gitpython
+rich
+prompt_toolkit
+
